@@ -1,8 +1,0 @@
-#barcode-scanner canvas.drawingBuffer, #barcode-scanner video.drawingBuffer {
-  display: none;
-}
-
-#barcode-scanner canvas, #barcode-scanner video {
-  width: 100%;
-  height: auto;
-}
